@@ -1,5 +1,5 @@
 #+options: toc:nil
-#+title:polycarp
+
 
 * polycarp
 Website software that has both dynamic and static features.
@@ -11,7 +11,7 @@ Website software that has both dynamic and static features.
 
 ** Author
 
-   Tim Hawes (tim@selfdidactic.com)
+   Tim Hawes (tim AT selfdidactic DOT com)
 
 ** Copyright
 Copyright (c) 2017 Tim Hawes (tim@selfdidactic.com)
