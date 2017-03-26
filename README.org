@@ -9,8 +9,9 @@ Website software that has both dynamic and static features.
 
 ** Installation
 
+** License
+   MIT License
 ** Author
-
    Tim Hawes (tim AT selfdidactic DOT com)
 
 ** Copyright
